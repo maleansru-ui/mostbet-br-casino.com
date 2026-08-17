@@ -1,0 +1,29 @@
+# As páginas jurídicas (termos, privacidade, cookies, jogo-responsavel)
+# NÃO são bloqueadas aqui de propósito: elas têm <meta name="robots" content="noindex">
+# e cabeçalho X-Robots-Tag. Bloquear o rastreamento impediria o robô de ler o
+# noindex, e a URL acabaria indexada mesmo assim, sem descrição.
+
+User-agent: *
+Allow: /
+Disallow: /go
+Disallow: /admin/
+Disallow: /private/
+Disallow: /?s=
+
+User-agent: Googlebot
+Allow: /
+Disallow: /go
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Disallow: /go
+Crawl-delay: 2
+
+User-agent: Yandex
+Allow: /
+Disallow: /go
+Crawl-delay: 1
+
+Host: mostbet-br-casino.com
+Sitemap: https://mostbet-br-casino.com/sitemap.xml

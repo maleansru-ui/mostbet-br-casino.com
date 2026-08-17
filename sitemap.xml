@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================
+     SITEMAP mostbet-br-casino.com
+     Só páginas indexáveis. As jurídicas (termos, privacidade,
+     cookies, jogo-responsavel) têm noindex e ficam fora da carta.
+     ============================================================ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://mostbet-br-casino.com/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/home-hero.webp</image:loc>
+      <image:caption>Mostbet Brasil — cassino online e apostas esportivas em reais</image:caption>
+      <image:title>Mostbet Brasil 2026 — cassino e apostas</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/bonus</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/bonus-hero.webp</image:loc>
+      <image:caption>Bônus de boas-vindas da Mostbet: 125% até R$ 1.700 e 250 rodadas grátis</image:caption>
+      <image:title>Bônus Mostbet 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/codigo-promocional</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/codigo-hero.webp</image:loc>
+      <image:caption>Código promocional da Mostbet para o primeiro depósito</image:caption>
+      <image:title>Código promocional Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/cassino</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/cassino-hero.webp</image:loc>
+      <image:caption>Cassino online da Mostbet com mais de 10.000 jogos</image:caption>
+      <image:title>Cassino Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/aviator</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/aviator-hero.webp</image:loc>
+      <image:caption>Aviator da Spribe na Mostbet: RTP de 97% e modo demo</image:caption>
+      <image:title>Aviator Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/apostas</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/apostas-hero.webp</image:loc>
+      <image:caption>Apostas esportivas na Mostbet: Brasileirão, Libertadores e eSports</image:caption>
+      <image:title>Apostas esportivas Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/aplicativo</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/app-hero.webp</image:loc>
+      <image:caption>Aplicativo da Mostbet para Android e iOS</image:caption>
+      <image:title>Aplicativo Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/pagamentos</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/pagamentos-hero.webp</image:loc>
+      <image:caption>Depósito e saque na Mostbet via Pix, boleto e criptomoedas</image:caption>
+      <image:title>Pagamentos Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/login</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/login-hero.webp</image:loc>
+      <image:caption>Login e cadastro na Mostbet Brasil</image:caption>
+      <image:title>Login Mostbet</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/sobre-nos</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/sobre-hero.webp</image:loc>
+      <image:caption>Sobre o guia independente da Mostbet no Brasil</image:caption>
+      <image:title>Sobre nós</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mostbet-br-casino.com/contato</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://mostbet-br-casino.com/assets/img/br/contato-hero.webp</image:loc>
+      <image:caption>Contato do guia da Mostbet no Brasil</image:caption>
+      <image:title>Contato</image:title>
+    </image:image>
+  </url>
+
+</urlset>
